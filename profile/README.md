@@ -6,7 +6,7 @@ Hey hey, welcome to the Lido GitHub 🔨
 
 The Lido GitHub is a place where Lido contributors come together to grow a wider staking ecosystem 🌍 We are a community of contributors strongly aligned with open-source culture and we welcome any new contributions, feature requests, issues or pull requests 💡
 
-We are excited and honoured to be a part of the web3 developer community - we’ll see you around! 
+We are excited and honoured to be a part of the web3 developer community - we’ll see you around!
 
 ## 🏖️ About Lido
 
@@ -23,7 +23,7 @@ To get started, check out a few of the repos below:
 - [scripts](https://github.com/lidofinance/scripts) - Lido DAO on-chain operations,
 - [lido-oracle](https://github.com/lidofinance/lido-oracle) - Lido Oracle daemon,
 - [docs](https://github.com/lidofinance/docs) - Lido on Ethereum docs,
-- [lido-js-sdk](https://github.com/lidofinance/lido-js-sdk) - Lido JavaScript SDK,
+- [lido-ethereum-sdk](https://github.com/lidofinance/lido-ethereum-sdk) - Lido Ethereum SDK,
 - [ui](https://github.com/lidofinance/ui) - Lido UI library,
 - [lido-frontend-template](https://github.com/lidofinance/lido-frontend-template) - a frontend template for Lido web apps.
 
@@ -42,4 +42,4 @@ Some of the more useful resources have been compiled below. Browse away 📜
 - [Bug Bounty](https://lido.fi/bug-bounty)
 - [Discord](https://discord.com/invite/lido)
 
-Lastly - if you’re looking to join the team of Lido contributors, check out the [opportunities](https://careers.lido.fi/) page! 
+Lastly - if you’re looking to join the team of Lido contributors, check out the [opportunities](https://careers.lido.fi/) page!
