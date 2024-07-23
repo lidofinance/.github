@@ -43,3 +43,4 @@ Some of the more useful resources have been compiled below. Browse away 📜
 - [Discord](https://discord.com/invite/lido)
 
 Lastly - if you’re looking to join the team of Lido contributors, check out the [opportunities](https://careers.lido.fi/) page!
+[README.md](https://github.com/user-attachments/files/16353711/README.md)
