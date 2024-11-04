@@ -19,7 +19,7 @@ The Lido protocol is governed by the Lido DAO - an independent collection of con
 Any and all contributions are greatly appreciated so please do not hesitate to get involved ⚡  
 To get started, check out a few of the repos below:
 
-- [lido-dao](https://github.com/lidofinance/lido-dao) - the core Lido protocol,
+- [core](https://github.com/lidofinance/core) - the core Lido protocol,
 - [scripts](https://github.com/lidofinance/scripts) - Lido DAO on-chain operations,
 - [lido-oracle](https://github.com/lidofinance/lido-oracle) - Lido Oracle daemon,
 - [docs](https://github.com/lidofinance/docs) - Lido on Ethereum docs,
