@@ -42,4 +42,4 @@ Some of the more useful resources have been compiled below. Browse away 📜
 - [Bug Bounty](https://lido.fi/bug-bounty)
 - [Discord](https://discord.com/invite/lido)
 
-Lastly - if you’re looking to join the team of Lido contributors, check out the [opportunities](https://careers.lido.fi/) page!
+Lastly - if you’re looking to join the team of Lido contributors, check out the [opportunities](https://opportunities.lido.fi/) page!
