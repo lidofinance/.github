@@ -39,7 +39,7 @@ Some of the more useful resources have been compiled below. Browse away 📜
 - [YouTube](https://www.youtube.com/c/LidoFinance)
 - [Documentation](https://docs.lido.fi/)
 - [Lido DAO Governance and Research forum](https://research.lido.fi/)
-- [Bug Bounty](https://lido.fi/bug-bounty)
+- [Bug Bounty](https://immunefi.com/bug-bounty/lido/information/)
 - [Discord](https://discord.com/invite/lido)
 
 Lastly - if you’re looking to join the team of Lido contributors, check out the [opportunities](https://opportunities.lido.fi/) page!
